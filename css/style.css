@@ -349,7 +349,7 @@ margin-right: auto;
 
 }
 
-/* 980px以下 */
+/* 550px以下 */
 @media (max-width: 550px) {
   .toppic {
     text-align: center;
@@ -357,6 +357,11 @@ height: 80%;
 width: 80%;
   }
 
+
+  .nav2{
+    font-size: 0.7rem;
+    margin-left: 3%;
+  }
 
 }
 
